@@ -1,0 +1,51 @@
+body {
+    font-family: 'poppins' , sans-serif;
+}
+body{
+    background-color: red;
+}
+
+    body {
+        background-color: black;
+    }
+        h1 {
+            letter-spacing: 2px;
+            color: rgb(255, 183, 0);
+        }
+        p{
+            color:rgb(255, 255, 255);
+        }
+        button {
+            background-color: rgb(255, 183, 0) ;
+            color: black;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: orange;
+        }
+        img {
+            width: 100%;
+            border-radius: 15px;
+            margin-top: 20px;
+        }
+        .kart{
+            color: black;
+            background-color: #111;
+            padding: 30px;
+            border-radius: 15px;
+            width: 400px;
+            margin: auto;
+            margin-top: 50px;
+            box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+        }
+        .kart h1{
+            color: rgb(255, 183, 0);
+        }
+        .kart:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+        }  
+
+    
